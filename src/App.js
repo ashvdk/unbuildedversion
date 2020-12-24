@@ -50,7 +50,6 @@ function App() {
                 <Checkout />
               </Route>
             </div>
-            <Footer />
           </div>
         </Switch>      
       </HashRouter>

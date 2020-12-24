@@ -1,0 +1,82 @@
+export const productData = [
+  {
+    id:1,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Aashirvaad",
+    productName:"Atta",
+    quantity:1,
+    price:20
+  },
+  {
+    id:2,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Aashirvaad",
+    productName:"Atta",
+    quantity:1,
+    price:20
+  },
+  {
+    id:3,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Aashirvaad",
+    productName:"Atta",
+    quantity:1,
+    price:20
+  },
+  {
+    id:4,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Sun Flower",
+    productName:"Cooking oil",
+    quantity:1,
+    price:118
+  },
+  {
+    id:5,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Aashirvaad",
+    productName:"Sona Massori",
+    quantity:1,
+    price:110
+  },
+  {
+    id:6,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Aashirvaad",
+    productName:"Rice",
+    quantity:1,
+    price:45
+  },
+  {
+    id:7,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Aashirvaad",
+    productName:"Salt",
+    quantity:1,
+    price:10
+  },
+  {
+    id:8,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Aashirvaad",
+    productName:"Rava",
+    quantity:1,
+    price:20
+  },
+  {
+    id:9,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Aashirvaad",
+    productName:"Brown Sugar",
+    quantity:1,
+    price:45
+  },
+  {
+    id:10,
+    imageUrl:"https://www.bigbasket.com/media/uploads/p/l/126903_8-aashirvaad-atta-whole-wheat.jpg",
+    brandName:"Big Basket",
+    productName:"Sugar",
+    quantity:1,
+    price:200
+  }
+]
